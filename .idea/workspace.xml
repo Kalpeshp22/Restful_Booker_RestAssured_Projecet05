@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6ea80c32-48f7-44f5-b005-4de66bd0bd01" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29rcAUxjGu4zeqSFyzCtThJ7iSt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../restfulbooker-restasassured-Project02_/restfulbooker-restassured-api" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alpes\IdeaProjects\restful_booker_restassured_project02\src\test\java\com\restful_booker_heorkuapp" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testbase" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RestfullBookerHerokuappDeleteTest.deleteAllBookingInfo">
+    <configuration name="RestfullBookerHerokuappDeleteTest.deleteAllBookingInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful_booker_restassured_project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restful_booker_heorkuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restful_booker_heorkuapp" />
+      <option name="MAIN_CLASS_NAME" value="com.restful_booker_heorkuapp.RestfullBookerHerokuappDeleteTest" />
+      <option name="METHOD_NAME" value="deleteAllBookingInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfullBookerHerokuappGetTest.getSingleBookingInfo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful_booker_restassured_project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restful_booker_heorkuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restful_booker_heorkuapp" />
+      <option name="MAIN_CLASS_NAME" value="com.restful_booker_heorkuapp.RestfullBookerHerokuappGetTest" />
+      <option name="METHOD_NAME" value="getSingleBookingInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfullBookerHerokuappPatchTest.patchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful_booker_restassured_project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restful_booker_heorkuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restful_booker_heorkuapp" />
+      <option name="MAIN_CLASS_NAME" value="com.restful_booker_heorkuapp.RestfullBookerHerokuappPatchTest" />
+      <option name="METHOD_NAME" value="patchTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfullBookerHerokuappPostTest.createBookingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful_booker_restassured_project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restful_booker_heorkuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restful_booker_heorkuapp" />
+      <option name="MAIN_CLASS_NAME" value="com.restful_booker_heorkuapp.RestfullBookerHerokuappPostTest" />
+      <option name="METHOD_NAME" value="createBookingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestfullBookerHerokuappPutTest.updateBookingWithPut" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="restful_booker_restassured_project02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restful_booker_heorkuapp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restful_booker_heorkuapp" />
+      <option name="MAIN_CLASS_NAME" value="com.restful_booker_heorkuapp.RestfullBookerHerokuappPutTest" />
+      <option name="METHOD_NAME" value="updateBookingWithPut" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RestfullBookerHerokuappDeleteTest.deleteAllBookingInfo" />
+        <item itemvalue="JUnit.RestfullBookerHerokuappPatchTest.patchTest" />
+        <item itemvalue="JUnit.RestfullBookerHerokuappPutTest.updateBookingWithPut" />
+        <item itemvalue="JUnit.RestfullBookerHerokuappPostTest.createBookingTest" />
+        <item itemvalue="JUnit.RestfullBookerHerokuappGetTest.getSingleBookingInfo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ea80c32-48f7-44f5-b005-4de66bd0bd01" name="Changes" comment="" />
+      <created>1653874506750</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653874506750</updated>
+    </task>
+    <servers />
+  </component>
+</project>
